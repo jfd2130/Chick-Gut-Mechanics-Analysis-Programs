@@ -1,4 +1,4 @@
-function [fitVals] = T4_toeLinearFitting(allData)
+function [fitVals] = MT3_toeLinearFitting(allData)
 
 % "allData" is a 2D array of pooled stress-stretch results, with stretch
 % for sample 1 in the 1st column, stress for sample 1 in the 2nd column,

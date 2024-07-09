@@ -1,4 +1,4 @@
-function [calcData,rawData] = T4LSM_manualCantileverAnalysis
+function [calcData,rawData] = MT3LSM_manualCantileverAnalysis
 %% Setup
 
 % I. allow the user to select an image file (start of run, usually image 3):

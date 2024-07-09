@@ -1,4 +1,4 @@
-function [calcData,rawData,runInfo] = T4Axio_tube_3point()
+function [calcData,rawData,runInfo] = MT3Axio_tube_3point()
 %% Inputs
 % Start by filling in these parameters, then run the function.
 

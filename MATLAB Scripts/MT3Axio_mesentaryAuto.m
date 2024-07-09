@@ -1,4 +1,4 @@
-function [calcData,rawData,runInfo] = T4Axio_mesentaryAuto()
+function [calcData,rawData,runInfo] = MT3Axio_mesentaryAuto()
 %% Setup
 
 % I. allow the user to select an image file (start of run, usually image 3):

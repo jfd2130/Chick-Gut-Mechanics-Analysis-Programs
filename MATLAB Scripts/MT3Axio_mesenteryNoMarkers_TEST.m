@@ -1,4 +1,4 @@
-function [calcData,rawData,runInfo] = T4Axio_mesenteryNoMarkers_TEST()
+function [calcData,rawData,runInfo] = MT3Axio_mesenteryNoMarkers_TEST()
 %% Setup
 
 % I. allow the user to select an image file (start of run, usually image 3):
